@@ -6,6 +6,8 @@
 
 ## Summary:
 
+Result-orientired software ingeneer with experiance building applications. Seeking a role building WEB applications for a well-established software company
+
 ## Experience:
 
 #### System administrator
@@ -17,6 +19,7 @@
 Support for enterprise LAN and workstations (Windows).
 
 - Development and maintenance of internal activity accounting system (PHP, JQuery, PostgreSql)
+- Developed system sending SMS informarion to company clients (Delphi)
 
 #### System administrator
 
