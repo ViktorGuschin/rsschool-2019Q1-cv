@@ -14,10 +14,10 @@ header {
 }
 
 main {
-  background-color: #fff;
-  height: 70%;
   position: relative;
+  height: 70%;
   font-size: 16px;
+  background-color: #fff;
 }
 
 img {
@@ -25,8 +25,8 @@ img {
 }
 
 main h3 {
-  color: #37b5a7;
   position: relative;
+  color: #37b5a7;
 }
 
 h3.objective::before,
@@ -35,7 +35,7 @@ h3.education::before {
   content: '';
   position: absolute;
   top: 30px;
-  width: 95%;
+  width: 100%;
   border: 1px solid #37b5a7;
 }
 
@@ -44,11 +44,11 @@ main p {
 }
 
 .contacts {
-  color: #fff;
   display: flex;
   flex-flow: column;
   justify-content: center;
   align-items: center;
+  color: #fff;
 }
 
 .contacts ul {
@@ -57,4 +57,9 @@ main p {
 
 .contacts ul li {
   margin: 5px;
+}
+
+.contacts ul li a {
+  text-decoration: none;
+  color: #fff;
 }
