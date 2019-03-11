@@ -20,6 +20,10 @@ main {
   font-size: 16px;
 }
 
+img {
+  clip-path: circle(130px);
+}
+
 main h3 {
   color: #37b5a7;
   position: relative;
@@ -41,4 +45,16 @@ main p {
 
 .contacts {
   color: #fff;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacts ul {
+  list-style: none;
+}
+
+.contacts ul li {
+  margin: 5px;
 }
